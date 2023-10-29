@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-trading-3600f",
+  "private_key_id": "201fe095fde0005e03c579b9c90fd9e358b585fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwH+snWPvrCBaB\n6lM9uk0YkcgrqcPwJAKb64Ly94U923cbXkzpuSEDBLBS9hxwGOc47GNWEk7XtbLl\ngyS+4KfgOdsakbVoS0AenGM1xtTMeaa8UF1Kb/bRNp71i3Hpd1OBZJd8xwxDt4za\n2CHjwk43QghlHvmn2uleCKNb8p/wWJeaJNcPooN1cdKcTWvo2jrO05t0symUCDke\nYT7539dwtihZOPJgwZE9mad4pA2H7bEowCbV22MUYrWeD+makMkK5brKbxpVjlud\nVvYP2FUiCySmrggtnz6JIi2owMygNjcOWru7PzJ6/gfqLIsAEUyBFiF8USM/SyUR\nWHdD7J5hAgMBAAECggEAElaUdcGcY1WxgD/tgGMeRWVidfdkbSPWuLTeKt2uXCk2\nft1D/V73Crkpgc3Z2qshIips0miwGGI1GRQdVpmOKTjk8SCERrJ1H+rRIqeL/ylY\nfMmSWR6M0K5TAUaOawxvX6zhYA7ank9lhWDVMIGKAtNni93ciUdwHoggOEHsOMpY\nDWCjcysSTuJVrjN7sZ1fAP9pUfvDdIdKcdd2kOmZh7Reb+3ejvZood8Uc7EXNE6/\nv1C7V9NuEBu53HSDAnkkFEbXKK7VB/E8HVgAAeAODtrEx+Xj7q2ah626smIibKZM\nLvr2acMVyMnI9VhKQx4BR0MqbTqZSsxLqtV5Cs3UUQKBgQDyZez1r7xrdiCQZh+3\n8wNEQnE+VKSTuMeZ7f39yBdNmHkXgtvGmK6h29fTTE/jKD6GhJpzhuqaXD1ve1gv\nSQQaM7WGi9Wrur8ILD2kvbLPDi0VHuWgp8wnIV0ke6l90aE+BOGNtQyCFQ+ZNEwT\n0RNBV0j5Ab6pEygsZRim/NUh6QKBgQC6AffA0WSzq/hfEcqNUxLv+B/CycklQCIY\nG4qoyk7USKi7QIqkEtg6c0dO3lc6Gy6FpK7CYNW4bTJNdC3bk7tGoi5gqaIGSl2T\nQOyMQP1zIqokjUgphmLOuekhhRKM7qZZVvBAEgP/pWpPfgP4cGtvVJcswnOxzZyX\nG4kKRscVuQKBgGgK+9TQ4400nPGeBAtO0Z4g7r6UUjfd3j7h+l1N30K9KWzADFmH\n+50Z4d+eJ8QW6A+RJ0JjLJuo7+3EAav6KTqd61Ke/s3BUHHPm330tqVNLmicZG+6\n1lQNbA9WzP9mVVFrguzyQzYqmBFocycmXJ91Oas35oBn6pxzoEs8xrbRAoGBAIEZ\nSIltS4VggDwLrxezZttizTh2sMLH5mHxC6Xm9BtmaqW8P/1sjuLSi9Vzf/r2Tq23\nBQwoBW3BbD5RulpCCKMXgTTZx3iyOIwxbXxSxxYYIxrHbCRV/1IXunTnVV63bIFp\nU8pENr5CYqzVe4/9BrP4dAw+0enAGUTPeafGQ/sRAoGAERwvBrEadrMVx6JEl5lY\nXPvtCkcp5Eie9Oegvfp39GtM/5qUcZCxq86oXB9G5vjlTdK9EYKMIkD+kOSrkth3\nRVhHMQb6PIwmQT8+7/v0lEDMpc+RlNyImUiz7cjFGjRjM2lGiGCPzxnrEN59ml8y\ndqU/78nbc99GYOPIImazWGQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-r7ipr@crypto-trading-3600f.iam.gserviceaccount.com",
+  "client_id": "109458765403511988921",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-r7ipr%40crypto-trading-3600f.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
